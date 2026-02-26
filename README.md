@@ -1,8 +1,7 @@
 # Employee Management System
 
 A full-stack CRUD web application for managing company employee records, 
-built as part of the Advanced Java Programming module at the 
-Java Institute for Advanced Technology.
+built as part of the Java Programming module.
 
 ## Tech Stack
 
